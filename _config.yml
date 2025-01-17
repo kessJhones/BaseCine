@@ -4,7 +4,7 @@ branding:
   icon:
     type: fa
     name: fa-file-text-o
-  highlight: Cortes
+  highlight: Base Cine
   bold: Requisitos 
 markdown: kramdown
 kramdown:

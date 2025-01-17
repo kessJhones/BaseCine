@@ -1,2 +1,2 @@
 # Levantamento de requesitos.
-Levantamento de requisitos para uma aplicação que gera cortes para películas.
+Levantamento de requisitos para uma aplicação que visa auxiliar na escolha de filmes.

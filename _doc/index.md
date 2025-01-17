@@ -14,4 +14,4 @@ navigation:
 
 </div>
 
-[GHPAGES]: https://github.com/kessJhones/corte
+[GHPAGES]: https://github.com/kessJhones/BaseCine
