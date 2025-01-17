@@ -22,7 +22,14 @@ RFN: Requisito Não Funcional.
 {: .table .table-striped .table-bordered}
 | **ID do Requisito** | **Requisito** |
 |-|-|
-| RF1 | 
+| RF1 | O sistema deve permitir que o usuário cadastre-se no site.  |
+| RF2 | O sistema deve permitir que o usuário adicione um novo grupo.  |
+| RF3 | O sistema deve permitir que o adm cadastre novos filmes e séries.  |
+| RF4 | O sistema deve permitir que o usuário aviliem filmes e séries.  |
+| RF5 | O sistema deve permitir que o usuário adicione filmes e séries a sua lista de favoritos.  |
+| RF6 | O sistema deve permitir que o usuário adicione filmes e séries a sua lista de assistidos.  |
+| RF7 | O sistema deve permitir que os participantes de um grupo possam selecionar filmes para sortearem.  |
+
 
 </div>
 
